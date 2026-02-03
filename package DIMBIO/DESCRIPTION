@@ -2,7 +2,8 @@ Package: DIMBIO
 Type: Package
 Title: discrimination of models of dynamics simulation
 Version: 0.2.0
-Author: Ronny Contreras <ronnyalberto.contreras@unet.edu.ve>
+Author: Ronny Contreras <ronnyalberto.contreras@unet.edu.ve>, Alexis Valery <avalery@unet.edu.ve>, Rossana Timaure <rttg@mail.com>, Marc Pansu, 
+        Lesmes A. M. Jerezd <lmorajer@fiu.edu>
 Maintainer: Ronny Contreras <ronnyalberto.contreras@unet.edu.ve>, Rossana Timaure <rttg@unet.edu.ve>
 Description: discrimination of models of dynamics simulation for biologic environments
 License: GPL-2
